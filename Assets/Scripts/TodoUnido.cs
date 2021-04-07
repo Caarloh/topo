@@ -47,11 +47,12 @@ public class TodoUnido : MonoBehaviour
         if (movimiento)
         {
             rb.velocity = new Vector2(velocidad, rb.velocity.y);
-
+            player.GetComponent<SpriteRenderer>().flipX = true;
         }
         else
         {
             rb.velocity = new Vector2(-velocidad, rb.velocity.y);
+            player.GetComponent<SpriteRenderer>().flipX = false;
         }
 
         if (istouchingFront == true && Check.enSuelo == false)
