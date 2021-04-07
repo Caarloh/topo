@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: 00785214ebdd28544a0e412f07c849fb
+guid: cd17ee4459778d04c91e1de689c0d229
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7090351694883213848
-    second: pared tierra 04_0
+      213: -1577187668189303008
+    second: parte faltante_0
   - first:
-      213: -6585591246855384825
-    second: pared tierra 04_1
+      213: 9177771580864518014
+    second: parte faltante_1
   - first:
-      213: 7044702283686189066
-    second: pared tierra 04_2
+      213: 3895956185105432540
+    second: parte faltante_2
   - first:
-      213: 3019151003042771989
-    second: pared tierra 04_3
-  - first:
-      213: -3333394550077103708
-    second: pared tierra 04_4
-  - first:
-      213: 1812016064463091854
-    second: pared tierra 04_5
-  - first:
-      213: -2676978062256999747
-    second: pared tierra 04_6
-  - first:
-      213: 4993622816916010898
-    second: pared tierra 04_7
+      213: -3073576986822874984
+    second: parte faltante_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -113,7 +101,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pared tierra 04_0
+      name: parte faltante_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,14 +115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8125a1adc4df56260800000000000000
-      internalID: 7090351694883213848
+      spriteID: 02f237d0c24bc1ae0800000000000000
+      internalID: -1577187668189303008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pared tierra 04_1
+      name: parte faltante_1
       rect:
         serializedVersion: 2
         x: 100
@@ -148,14 +136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 701534727a74b94a0800000000000000
-      internalID: -6585591246855384825
+      spriteID: e77da1b70aefd5f70800000000000000
+      internalID: 9177771580864518014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pared tierra 04_2
+      name: parte faltante_2
       rect:
         serializedVersion: 2
         x: 200
@@ -169,14 +157,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a089f7f076fc3c160800000000000000
-      internalID: 7044702283686189066
+      spriteID: cdff1b93287311630800000000000000
+      internalID: 3895956185105432540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pared tierra 04_3
+      name: parte faltante_3
       rect:
         serializedVersion: 2
         x: 300
@@ -190,92 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 514f0a357dd26e920800000000000000
-      internalID: 3019151003042771989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pared tierra 04_4
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a16e6a51576db1d0800000000000000
-      internalID: -3333394550077103708
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pared tierra 04_5
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e88bf999203952910800000000000000
-      internalID: 1812016064463091854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pared tierra 04_6
-      rect:
-        serializedVersion: 2
-        x: 600
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db278a7b2a679dad0800000000000000
-      internalID: -2676978062256999747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pared tierra 04_7
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2977090ae79ec4540800000000000000
-      internalID: 4993622816916010898
+      spriteID: 8986b96d3067855d0800000000000000
+      internalID: -3073576986822874984
       vertices: []
       indices: 
       edges: []
